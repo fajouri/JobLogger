@@ -1,0 +1,5 @@
+C:\Users\yamilf\documents\visual studio 2015\Projects\JobLogger\JobLogger\obj\Debug\JobLogger.csprojResolveAssemblyReference.cache
+C:\Users\yamilf\documents\visual studio 2015\Projects\JobLogger\JobLogger\bin\Debug\JobLogger.dll
+C:\Users\yamilf\documents\visual studio 2015\Projects\JobLogger\JobLogger\bin\Debug\JobLogger.pdb
+C:\Users\yamilf\documents\visual studio 2015\Projects\JobLogger\JobLogger\obj\Debug\JobLogger.dll
+C:\Users\yamilf\documents\visual studio 2015\Projects\JobLogger\JobLogger\obj\Debug\JobLogger.pdb
